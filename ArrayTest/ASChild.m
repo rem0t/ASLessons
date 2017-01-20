@@ -11,7 +11,7 @@
 @implementation ASChild
 
 -(void) action {
-    NSLog(@"%@ CHILD ATCION!!!", self.name);
+    NSLog(@"%@ CHILD ATCION!!!", self.name); 
 }
 
 

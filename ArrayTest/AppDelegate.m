@@ -29,7 +29,7 @@
    /*
     for (int i = [array count] -1; i >= 0 ; i--) { // array count возвращает нам количество элементов массива (размер массива)
         // тут мы выводим массив с конца
-        NSLog(@"%@", [array objectAtIndex:i]);
+        NSLog(@"%@", [array objectAtIndex:i]); 
         NSLog(@"i = %d", i);
  */
 /*

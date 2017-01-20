@@ -11,7 +11,7 @@
 @implementation ASObject
 
 -(void) action {
-    NSLog(@"%@ ATCION!!!", self.name);
+    NSLog(@"%@ ATCION!!!", self.name); 
 }
 
 @end

@@ -10,6 +10,6 @@
 
 @interface ASChild : ASObject
 
-@property (strong, nonatomic) NSString* lastName;
+@property (strong, nonatomic) NSString* lastName; 
 
 @end
