@@ -6,6 +6,14 @@
 //  Copyright © 2016 Vladislav Kalaev. All rights reserved.
 //
 
+
+
+
+
+
+//bounds - это прямоугольник, заданный координатами (x,y) и размером (width,height) относительно собственной координатной системы (0,0).
+
+//frame - это прямоугольник, заданный координатами (x,y) и размером (width,height) относительно своего контейнера (superview).
 #import "ViewController.h"
 
 @interface ViewController ()
@@ -52,7 +60,7 @@
     v.backgroundColor = [[UIColor blueColor]colorWithAlphaComponent:0.8];
     [self.view addSubview:v];
 }
-
+ 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
