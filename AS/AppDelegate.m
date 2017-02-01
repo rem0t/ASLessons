@@ -22,7 +22,7 @@
     
     [paret sayHello]; // вызываем метод
     
-    [paret say:(@"How are you")]; // передаем данные методу нашу строку 
+    [paret say:(@"How are you")]; // передаем данные методу нашу строку  
     
     [paret say:(@"i'm fine") and:(@"thx")];
     

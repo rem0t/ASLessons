@@ -15,7 +15,7 @@
 -(void) sayHello;
 -(void) say:(NSString*) string;
 -(void) say:(NSString*) string and:(NSString*) string2;
--(void) say:(NSString*) string and:(NSString*) string2 andAfterWhat:(NSInteger) say; // методы!!!
+-(void) say:(NSString*) string and:(NSString*) string2 andAfterWhat:(NSInteger) say; // методы!!! 
 -(NSString*) saySomething;
 
 @end

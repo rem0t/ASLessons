@@ -11,7 +11,7 @@
 @implementation ASParentKlass
 
 
-+(void) whoAreYou {                     // этот метод должен быть вызвал у класса родителя ASParentKlass
++(void) whoAreYou {                     // этот метод должен быть вызвал у класса родителя ASParentKlass 
     NSLog(@"I'm as ASParentKlass");
 }
 
