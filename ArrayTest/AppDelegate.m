@@ -10,7 +10,7 @@
 #import "ASObject.h"
 #import "ASChild.h"
 
-@interface AppDelegate ()
+@interface AppDelegate () 
 
 @end
 

@@ -11,7 +11,7 @@
 @interface ASObject : NSObject
 
 @property (strong, nonatomic) NSString* name; 
-
+ 
 
 -(void) action;
 
