@@ -36,7 +36,7 @@ typedef void (^OurTestBlock) (void);
     
     testBlockWithParams(@"Test block",11); // а тут вызываем блок с параметрами
     
-    
+     
   //  NSString* result = [self testMethidWithReturnValueParams:@"test string" value:111]; // метод в отличии от блока
     
     //NSLog(@"%@",result); // вывели отформатированную строку
