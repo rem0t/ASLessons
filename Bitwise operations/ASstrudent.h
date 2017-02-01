@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 typedef enum {
-    
+     
     ASstrudentSubjectTypeBiology        = 1 << 0,
     ASstrudentSubjectTypeMath           = 1 << 1,
     ASstrudentSubjectTypeDevelopment    = 1 << 2,
@@ -24,4 +24,4 @@ typedef enum {
 @property (assign,nonatomic) ASstrudentSubjectType subjectType;
 
 
-@end 
+@end

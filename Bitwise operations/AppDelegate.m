@@ -23,7 +23,7 @@
     student.studiesArt = YES;
     student.studiesDevelopment = YES;
     student.studiesEngineering = YES;
-    student.studiesMath = YES;
+    student.studiesMath = YES; 
     */
     NSLog(@"%@",student);
     

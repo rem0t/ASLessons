@@ -10,7 +10,7 @@
 
 @implementation ASstrudent
 
-- (NSString*) description {
+- (NSString*) description { 
     return [NSString stringWithFormat:@"Student studies:\n"
                                         "Biology = %@\n"
                                         "Math = %@\n"
