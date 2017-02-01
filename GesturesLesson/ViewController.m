@@ -10,11 +10,11 @@
 
 @interface ViewController ()
 
-@end
+@end 
 
 @implementation ViewController
 
-- (void)viewDidLoad { 
+- (void)viewDidLoad {
     [super viewDidLoad];
 
     UIView* view = [[UIView alloc]initWithFrame:CGRectMake(CGRectGetMidX(self.view.bounds)-50,
