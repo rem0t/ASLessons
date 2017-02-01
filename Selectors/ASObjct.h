@@ -10,7 +10,7 @@
 
 @interface ASObjct : NSObject
 
-- (void) testMethod;
+- (void) testMethod; 
 
 
 

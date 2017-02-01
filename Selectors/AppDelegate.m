@@ -47,7 +47,7 @@
     
     [invocation setTarget:self]; // target означате тот объект у которого будет вызван метод
     [invocation setSelector:selector];
-    
+     
     NSInteger fVal = 2;
     CGFloat cfVal = 3.1f;
     double dval = 5.5f;
