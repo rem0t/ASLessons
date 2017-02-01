@@ -25,7 +25,7 @@
     [super viewDidLoad];
     NSLog(@"viewDidLoad");
 }
-
+ 
 #pragma mark - Views
 
 - (void)viewWillAppear:(BOOL)animated { // перед тем как появится
