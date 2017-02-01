@@ -38,7 +38,7 @@
     ASDoctor* doctor = [[ASDoctor alloc]init];
     
     patient1.delegate = doctor;
-    patient2.delegate = doctor;
+    patient2.delegate = doctor; 
     patient3.delegate = doctor;
     patient4.delegate = doctor;
     

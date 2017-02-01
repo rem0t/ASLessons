@@ -9,7 +9,7 @@
 #import "ASDoctor.h"
 
 
-@implementation ASDoctor
+@implementation ASDoctor 
 
 
 #pragma mark - ASPationDelegate

@@ -14,7 +14,7 @@
     
     BOOL iFeelGood = arc4random() % 2;
     
-    if (!iFeelGood) {
+    if (!iFeelGood) { 
         [self.delegate patientFeelsBad:self];
     }
     

@@ -11,7 +11,7 @@
 
 @protocol ASPationDelegate; // если мы хотим чтобы класс имел делегат то мы ему говорим об этом этой записью
 
-@interface ASPatient : NSObject
+@interface ASPatient : NSObject 
 
 @property(strong,nonatomic) NSString* name;   // strong обычные объекты которые мы должны зафиксировать пока они не умрут
 @property(assign,nonatomic) CGFloat temperature; // assign для примитивных типов int,float.
