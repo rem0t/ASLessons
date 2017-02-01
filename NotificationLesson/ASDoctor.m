@@ -19,7 +19,7 @@
         
         NSNotificationCenter* nc = [NSNotificationCenter defaultCenter]; // крутая штука
         [nc addObserver:self
-               selector:@selector(salaryChangedNotifikation:)
+               selector:@selector(salaryChangedNotifikation:) 
                    name:ASGovermentSalaryDidChangeNotification
                  object:nil];
         

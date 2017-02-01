@@ -18,7 +18,7 @@ NSString* const ASGovermentTaxLevelUseInfoKey = @"ASGovermentTaxLevelUseInfoKey"
 NSString* const ASGovermentSalaryDidUseInfoKey = @"ASGovermentSalaryDidUseInfoKey";
 NSString* const ASGovermentPensionUseInfoKey = @"ASGovermentPensionUseInfoKey";
 NSString* const ASGovermentAveragePriceUseInfoKey = @"ASGovermentAveragePriceUseInfoKey";
-
+ 
 @implementation ASGovermant
 
 - (instancetype)init

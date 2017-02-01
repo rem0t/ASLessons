@@ -18,7 +18,7 @@ extern NSString* const ASGovermentTaxLevelUseInfoKey;
 extern NSString* const ASGovermentSalaryDidUseInfoKey;
 extern NSString* const ASGovermentPensionUseInfoKey;
 extern NSString* const ASGovermentAveragePriceUseInfoKey;
-
+ 
 @interface ASGovermant : NSObject
 
 @property (assign,nonatomic) CGFloat taxLevel;
