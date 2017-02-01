@@ -33,9 +33,9 @@
     [boxer setHight:1.8f];    // методы set
     [boxer setWeight:80.f];
     
-    NSLog(@"age = %d", [boxer howOldAreYou]);
+    NSLog(@"age = %d", [boxer howOldAreYou]); 
     NSLog(@"name = %@", boxer.name);
-    NSLog(@"name = %@", [boxer name]); // методы get  
+    NSLog(@"name = %@", [boxer name]); // методы get
     NSLog(@"name = %@", [boxer name]);
     NSLog(@"name = %@", [boxer name]);
     NSLog(@"name = %@", [boxer name]);

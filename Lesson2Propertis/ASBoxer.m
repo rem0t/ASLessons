@@ -23,7 +23,7 @@
     self = [super init];
     if (self) {
         self.nameCount = 0; // инициализировали и обнулили счетчик
-    }
+    } 
     return self;
 }
 
