@@ -41,7 +41,7 @@
     @autoreleasepool {
         
         double startTime = CACurrentMediaTime();
-        
+         
         NSLog(@"%@ started",[[NSThread currentThread]name]);
         
         for (int i = 0; i<20000000; ++i ) {
