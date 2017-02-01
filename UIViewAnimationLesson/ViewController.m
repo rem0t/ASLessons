@@ -35,7 +35,7 @@
     [view startAnimating];
     
     [self.view addSubview:view];
-    
+     
   //    self.testView = view;
       self.testImageView = view;
     
