@@ -19,7 +19,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     [self testObject];
-    
+     
     
     NSLog(@"TEST IS OVER");
     
