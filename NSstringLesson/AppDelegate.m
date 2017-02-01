@@ -35,7 +35,7 @@
     
     NSRange range = [string rangeOfString:@"World" options:NSCaseInsensitiveSearch];// с опцией не чувствителен к регистру 
     // range находит слово передает его длину и положение (начало)
-    
+     
     if (range.location !=NSNotFound ) {
         NSLog(@"range = %@",NSStringFromRange(range));
     } else {
