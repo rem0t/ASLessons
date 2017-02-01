@@ -28,7 +28,7 @@
         [thread start];
     }
     
-    
+     
     NSThread* thread = [[NSThread alloc]initWithTarget:self selector:@selector(testThread) object:nil];
     [thread start];
     
