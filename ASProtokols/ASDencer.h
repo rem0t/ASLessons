@@ -11,7 +11,7 @@
 
 @interface ASDencer : NSObject <ASPatient>
 
-@property (strong,nonatomic) NSString* favouriteDance;
+@property (strong,nonatomic) NSString* favouriteDance; 
 @property(strong,nonatomic)NSString* name;
 -(void) dance;
 

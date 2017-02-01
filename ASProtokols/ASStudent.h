@@ -11,7 +11,7 @@
 
 @interface ASStudent : NSObject <ASPatient>
 
-@property (strong, nonatomic) NSString* universityName;
+@property (strong, nonatomic) NSString* universityName; 
 @property(strong,nonatomic)NSString* name;
 -(void) study;
 

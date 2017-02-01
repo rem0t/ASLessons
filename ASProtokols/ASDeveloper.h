@@ -12,7 +12,7 @@
 
 @interface ASDeveloper : NSObject <ASPatient> // дописали наш протокол т.е. класс соглашается выполнить требования нашего протокола 
 
-@property (assign,nonatomic) CGFloat experiance;
+@property (assign,nonatomic) CGFloat experiance; 
 @property(strong,nonatomic)NSString* name;
 -(void) work;
 

@@ -14,7 +14,7 @@
 
 @required // это озаначает что они должны быть у всех классов так же есть @opcional т.е. не можно и не делать он описан ниже
 @property(strong,nonatomic)NSString* name;
--(BOOL) areYouOk;
+-(BOOL) areYouOk; 
 -(void) tekePill;
 -(void) makeShot;
 

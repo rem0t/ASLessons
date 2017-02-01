@@ -34,7 +34,7 @@
     
     dancer1.name = @"Dancer1";
     dancer2.name = @"Dancer2";
-    
+     
     student1.name = @"Student1";
     student2.name = @"Student2";
     student3.name = @"Student3";
