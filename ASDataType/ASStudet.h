@@ -16,7 +16,7 @@ typedef enum { // enum это список 0,1,2,3 и т.д.
 } ASGender;
 
 @interface ASStudet : NSObject
- 
+  
 @property(strong,nonatomic) NSString* name;
 @property(assign,nonatomic) ASGender gender;
 

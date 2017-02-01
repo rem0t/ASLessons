@@ -18,7 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
      
-    
+     
     BOOL boolVar = YES; // yes no true fulse = 1,0
     NSInteger intVar = 10;
     NSUInteger intUvar = 100;         // у каждого примитивного типа есть собсвенный размер он храниться в стеке не в другой памяти не в куче
